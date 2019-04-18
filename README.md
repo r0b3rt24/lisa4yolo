@@ -9,6 +9,7 @@ https://github.com/AlexeyAB/darknet#how-to-train-tiny-yolo-to-detect-your-custom
 
 ### Source
 Model: https://pjreddie.com/darknet/yolo/
+
 Dataset: http://cvrr.ucsd.edu/vivachallenge/index.php/traffic-light/traffic-light-detection/
 
 ## Data Prepare
